@@ -1,0 +1,240 @@
+COUNTS FOR rufus 1 DEGREE:
+1 degree pos_ctrl with coverage: 17877
+Variants validated by at least 1 reads: 3790
+Variants validated by at least 2 reads: 3111
+Variants validated by at least 5 reads: 1539
+Variants validated by at least 8 reads: 764
+Variants validated by at least 10 reads: 554
+
+COUNTS FOR rufus 1 DEGREE:
+1 degree neg_ctrl with coverage: 17877
+Variants validated by at least 1 reads: 96
+Variants validated by at least 2 reads: 35
+Variants validated by at least 5 reads: 20
+Variants validated by at least 8 reads: 16
+Variants validated by at least 10 reads: 15
+
+COUNTS FOR rufus 1 DEGREE:
+1 degree homog_neg_ctrl with coverage: 17867
+Variants validated by at least 1 reads: 700
+Variants validated by at least 2 reads: 408
+Variants validated by at least 5 reads: 312
+Variants validated by at least 8 reads: 282
+Variants validated by at least 10 reads: 268
+
+COUNTS FOR rufus 2 DEGREE:
+2 degree pos_ctrl with coverage: 1952
+Variants validated by at least 1 reads: 1607
+Variants validated by at least 2 reads: 1539
+Variants validated by at least 5 reads: 1053
+Variants validated by at least 8 reads: 506
+Variants validated by at least 10 reads: 278
+
+COUNTS FOR rufus 2 DEGREE:
+2 degree neg_ctrl with coverage: 1952
+Variants validated by at least 1 reads: 15
+Variants validated by at least 2 reads: 5
+Variants validated by at least 5 reads: 5
+Variants validated by at least 8 reads: 5
+Variants validated by at least 10 reads: 5
+
+COUNTS FOR rufus 2 DEGREE:
+2 degree homog_neg_ctrl with coverage: 1952
+Variants validated by at least 1 reads: 92
+Variants validated by at least 2 reads: 55
+Variants validated by at least 5 reads: 44
+Variants validated by at least 8 reads: 42
+Variants validated by at least 10 reads: 39
+
+COUNTS FOR rufus 3 DEGREE:
+3 degree pos_ctrl with coverage: 1075
+Variants validated by at least 1 reads: 1057
+Variants validated by at least 2 reads: 1045
+Variants validated by at least 5 reads: 865
+Variants validated by at least 8 reads: 571
+Variants validated by at least 10 reads: 398
+
+COUNTS FOR rufus 3 DEGREE:
+3 degree neg_ctrl with coverage: 1075
+Variants validated by at least 1 reads: 3
+Variants validated by at least 2 reads: 0
+Variants validated by at least 5 reads: 0
+Variants validated by at least 8 reads: 0
+Variants validated by at least 10 reads: 0
+
+COUNTS FOR rufus 3 DEGREE:
+3 degree homog_neg_ctrl with coverage: 1075
+Variants validated by at least 1 reads: 43
+Variants validated by at least 2 reads: 26
+Variants validated by at least 5 reads: 19
+Variants validated by at least 8 reads: 18
+Variants validated by at least 10 reads: 17
+
+COUNTS FOR rufus 4 DEGREE:
+4 degree pos_ctrl with coverage: 1077
+Variants validated by at least 1 reads: 1069
+Variants validated by at least 2 reads: 1066
+Variants validated by at least 5 reads: 1034
+Variants validated by at least 8 reads: 934
+Variants validated by at least 10 reads: 876
+
+COUNTS FOR rufus 4 DEGREE:
+4 degree neg_ctrl with coverage: 1077
+Variants validated by at least 1 reads: 5
+Variants validated by at least 2 reads: 0
+Variants validated by at least 5 reads: 0
+Variants validated by at least 8 reads: 0
+Variants validated by at least 10 reads: 0
+
+COUNTS FOR rufus 4 DEGREE:
+4 degree homog_neg_ctrl with coverage: 1077
+Variants validated by at least 1 reads: 32
+Variants validated by at least 2 reads: 17
+Variants validated by at least 5 reads: 13
+Variants validated by at least 8 reads: 13
+Variants validated by at least 10 reads: 12
+
+COUNTS FOR rufus 5 DEGREE:
+5 degree pos_ctrl with coverage: 4074
+Variants validated by at least 1 reads: 4069
+Variants validated by at least 2 reads: 4069
+Variants validated by at least 5 reads: 4067
+Variants validated by at least 8 reads: 4050
+Variants validated by at least 10 reads: 4029
+
+COUNTS FOR rufus 5 DEGREE:
+5 degree neg_ctrl with coverage: 4074
+Variants validated by at least 1 reads: 13
+Variants validated by at least 2 reads: 0
+Variants validated by at least 5 reads: 0
+Variants validated by at least 8 reads: 0
+Variants validated by at least 10 reads: 0
+
+COUNTS FOR rufus 5 DEGREE:
+5 degree homog_neg_ctrl with coverage: 4073
+Variants validated by at least 1 reads: 62
+Variants validated by at least 2 reads: 22
+Variants validated by at least 5 reads: 9
+Variants validated by at least 8 reads: 8
+Variants validated by at least 10 reads: 8
+
+COUNTS FOR mutect 1 DEGREE:
+1 degree pos_ctrl with coverage: 4966
+Variants validated by at least 1 reads: 2479
+Variants validated by at least 2 reads: 2251
+Variants validated by at least 5 reads: 1706
+Variants validated by at least 8 reads: 1220
+Variants validated by at least 10 reads: 989
+
+COUNTS FOR mutect 1 DEGREE:
+1 degree neg_ctrl with coverage: 4966
+Variants validated by at least 1 reads: 112
+Variants validated by at least 2 reads: 68
+Variants validated by at least 5 reads: 43
+Variants validated by at least 8 reads: 35
+Variants validated by at least 10 reads: 31
+
+COUNTS FOR mutect 1 DEGREE:
+1 degree homog_neg_ctrl with coverage: 4937
+Variants validated by at least 1 reads: 834
+Variants validated by at least 2 reads: 664
+Variants validated by at least 5 reads: 537
+Variants validated by at least 8 reads: 467
+Variants validated by at least 10 reads: 441
+
+COUNTS FOR mutect 2 DEGREE:
+2 degree pos_ctrl with coverage: 1077
+Variants validated by at least 1 reads: 846
+Variants validated by at least 2 reads: 832
+Variants validated by at least 5 reads: 714
+Variants validated by at least 8 reads: 534
+Variants validated by at least 10 reads: 428
+
+COUNTS FOR mutect 2 DEGREE:
+2 degree neg_ctrl with coverage: 1077
+Variants validated by at least 1 reads: 7
+Variants validated by at least 2 reads: 1
+Variants validated by at least 5 reads: 1
+Variants validated by at least 8 reads: 1
+Variants validated by at least 10 reads: 1
+
+COUNTS FOR mutect 2 DEGREE:
+2 degree homog_neg_ctrl with coverage: 1077
+Variants validated by at least 1 reads: 132
+Variants validated by at least 2 reads: 118
+Variants validated by at least 5 reads: 96
+Variants validated by at least 8 reads: 83
+Variants validated by at least 10 reads: 76
+
+COUNTS FOR mutect 3 DEGREE:
+3 degree pos_ctrl with coverage: 709
+Variants validated by at least 1 reads: 660
+Variants validated by at least 2 reads: 656
+Variants validated by at least 5 reads: 626
+Variants validated by at least 8 reads: 552
+Variants validated by at least 10 reads: 494
+
+COUNTS FOR mutect 3 DEGREE:
+3 degree neg_ctrl with coverage: 709
+Variants validated by at least 1 reads: 2
+Variants validated by at least 2 reads: 0
+Variants validated by at least 5 reads: 0
+Variants validated by at least 8 reads: 0
+Variants validated by at least 10 reads: 0
+
+COUNTS FOR mutect 3 DEGREE:
+3 degree homog_neg_ctrl with coverage: 710
+Variants validated by at least 1 reads: 96
+Variants validated by at least 2 reads: 87
+Variants validated by at least 5 reads: 77
+Variants validated by at least 8 reads: 75
+Variants validated by at least 10 reads: 72
+
+COUNTS FOR mutect 4 DEGREE:
+4 degree pos_ctrl with coverage: 1170
+Variants validated by at least 1 reads: 1145
+Variants validated by at least 2 reads: 1142
+Variants validated by at least 5 reads: 1134
+Variants validated by at least 8 reads: 1111
+Variants validated by at least 10 reads: 1093
+
+COUNTS FOR mutect 4 DEGREE:
+4 degree neg_ctrl with coverage: 1170
+Variants validated by at least 1 reads: 3
+Variants validated by at least 2 reads: 0
+Variants validated by at least 5 reads: 0
+Variants validated by at least 8 reads: 0
+Variants validated by at least 10 reads: 0
+
+COUNTS FOR mutect 4 DEGREE:
+4 degree homog_neg_ctrl with coverage: 1170
+Variants validated by at least 1 reads: 72
+Variants validated by at least 2 reads: 62
+Variants validated by at least 5 reads: 51
+Variants validated by at least 8 reads: 48
+Variants validated by at least 10 reads: 43
+
+COUNTS FOR mutect 5 DEGREE:
+5 degree pos_ctrl with coverage: 4040
+Variants validated by at least 1 reads: 3998
+Variants validated by at least 2 reads: 3997
+Variants validated by at least 5 reads: 3995
+Variants validated by at least 8 reads: 3990
+Variants validated by at least 10 reads: 3979
+
+COUNTS FOR mutect 5 DEGREE:
+5 degree neg_ctrl with coverage: 4040
+Variants validated by at least 1 reads: 17
+Variants validated by at least 2 reads: 3
+Variants validated by at least 5 reads: 2
+Variants validated by at least 8 reads: 0
+Variants validated by at least 10 reads: 0
+
+COUNTS FOR mutect 5 DEGREE:
+5 degree homog_neg_ctrl with coverage: 4039
+Variants validated by at least 1 reads: 155
+Variants validated by at least 2 reads: 102
+Variants validated by at least 5 reads: 60
+Variants validated by at least 8 reads: 51
+Variants validated by at least 10 reads: 44
+
